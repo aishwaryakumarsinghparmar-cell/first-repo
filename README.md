@@ -1,3 +1,3 @@
 # first-repo
 This is my first Git repository.
-Author- Aishwarya singh
+Author- Aishwarya singh parmar
